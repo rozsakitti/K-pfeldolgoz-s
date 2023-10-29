@@ -1,3 +1,4 @@
+//Képfeldolgozás a gyakorlatban (2020/2021 I.)
 #include <opencv2/core.hpp>
 #include <opencv2/highgui.hpp>
 #include <opencv2/core.hpp>
